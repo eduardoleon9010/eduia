@@ -33,7 +33,7 @@ EduIA busca ser un **referente en educación ética con IA**, ofreciendo:
   </tr>
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Google_Forms_icon.svg" width="50" /><br>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googleforms.svg" width="50" /><br>
       Google Forms
     </td>
     <td align="center">
@@ -42,6 +42,7 @@ EduIA busca ser un **referente en educación ética con IA**, ofreciendo:
     </td>
   </tr>
 </table>
+
 
 
 
